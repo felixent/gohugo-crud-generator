@@ -28,7 +28,7 @@ Generator creates a repository definition file containing the main CRUD methods:
 # Install
 
 ```bash
-$ go get github.com/funvit/goqu-crud-gen/cmd/...
+$ go get github.com/felixent/gohugo-crud-generator/cmd/...
 ```
 
 # Usage
